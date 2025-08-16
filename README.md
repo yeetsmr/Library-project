@@ -1,23 +1,23 @@
-📚 Library Reservation System
+ Library Reservation System
 A C#-based application for managing library book reservations.
 The system supports two types of logins: Admin and User.
 
-🚀 Features
-👤 User Panel
+ Features:
+ User Panel
 Search and view available books
 
 Make book reservations
 
 View reservation status
 
-🛠️ Admin Panel
+Admin Panel
 Add, update, and delete books
 
 View registered users
 
 Approve or reject reservations
 
-🗂️ Technologies Used
+Technologies Used:
 Technology	Description
 C#	Programming language
 Windows Forms / WPF	User interface (specify your UI type)
